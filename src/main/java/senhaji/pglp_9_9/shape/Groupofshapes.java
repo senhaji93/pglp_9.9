@@ -4,31 +4,7 @@ import java.util.ArrayList;
 
 public class Groupofshapes extends Shape  {
 
-    @Override
-	public String getnameshape() {
-		// TODO Auto-generated method stub
-		return super.getnameshape();
-	}
-
-	@Override
-	public void setnameshape(String newshapename) {
-		// TODO Auto-generated method stub
-		super.setnameshape(newshapename);
-	}
-
-	@Override
-	public String getNameshape() {
-		// TODO Auto-generated method stub
-		return super.getNameshape();
-	}
-
-	@Override
-	public void setNameshape(String nameshape) {
-		// TODO Auto-generated method stub
-		super.setNameshape(nameshape);
-	}
-
-	private ArrayList<Shape> Shapes;
+    private ArrayList<Shape> Shapes;
   
     public Groupofshapes(final String shapename) {
         super(shapename);
