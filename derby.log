@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 23 02:56:28 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-3f07-ff08-000003314960 
+on database directory /home/pc/eclipse-workspace/pglp_9.9-master (1).zip_expanded/pglp_9.9-master/pglp_9_9/pglp_9_9/data with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1affbebc 
+Loaded from file:/home/pc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.3+7-Ubuntu-1ubuntu218.04.1
+user.dir=/home/pc/eclipse-workspace/pglp_9.9-master (1).zip_expanded/pglp_9.9-master/pglp_9_9/pglp_9_9
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-47-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
